@@ -1,3 +1,4 @@
-## repositório de códigos usados na disciplina de Sensoriamento Remoto - Unesp Eco&Bio 2021
+## Repositório de códigos - Eco&Bio Unesp 2021
+### Disciplina de Sensoriamento Remoto 
 
-any issue/bug write to dhemerson.costa@ipam.org.br
+Qualquer problema ou dúvida escrever para dhemerson.costa@ipam.org.br
