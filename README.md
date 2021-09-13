@@ -1,5 +1,3 @@
-# remote-sens-eco21
-
-repo with codes used in the remote sensing class - unesp 21
+## repositório de códigos usados na disciplina de Sensoriamento Remoto - Unesp Eco&Bio 2021
 
 any issue/bug write to dhemerson.costa@ipam.org.br
