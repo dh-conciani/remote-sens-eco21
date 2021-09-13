@@ -14,4 +14,8 @@ This folder contains the scripts used in the Remote Sensing class - PPG Ecologia
 2. [Install R base](https://cran.r-project.org/bin/) version 4.x and [Install R Studio Desktop.](https://www.rstudio.com/products/rstudio/download/)
 
 3. Download or clone this repository to your local workspace.
+
+## Scripts
+1. [Read Mapbiomas classification](https://github.com/mapbiomas-brazil/cerrado/tree/mapbiomas60/1-feature-space)
+
 Any issue or bug write to <dhemerson.costa@ipam.org.br>
