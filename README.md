@@ -1,5 +1,5 @@
 <div>
-    <img src='https://i.ytimg.com/vi/rmz5BsZfPjE/hqdefault.jpg' height='auto' width='160' align='right'>
+    <img src='https://ecoa.org.br/wp-content/uploads/2015/11/mapbiomas-logo.jpg' height='auto' width='160' align='right'>
     <h1>Eco&Bio 21 - Remote Sensing class</h1>
 </div>
 
