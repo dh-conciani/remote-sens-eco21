@@ -16,6 +16,8 @@ This folder contains the scripts used in the Remote Sensing class - PPG Ecologia
 3. Download or clone this repository to your local workspace.
 
 ## Scripts
-1. [Read Mapbiomas classification](https://github.com/mapbiomas-brazil/cerrado/tree/mapbiomas60/1-feature-space)
+1. [Export maps and statistics from LULC](https://github.com/dh-conciani/remote-sens-eco21/blob/main/01_mapbiomas-user-toolkit-lulc.js)
+- For custom asset, please change the lines 160 and 161 with your own asset 
 
+##
 Any issue or bug write to <dhemerson.costa@ipam.org.br>
