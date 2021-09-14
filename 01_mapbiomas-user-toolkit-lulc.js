@@ -157,6 +157,10 @@ var App = {
                     'value': 'projects/mapbiomas-workspace/AUXILIAR/ESTATISTICAS/COLECAO6/atlantic_forest_law',
                 },
                 {
+                    'label':'custom',
+                    'value':'users/dhconciani/base/matopiba_lapig_cerrado'
+                },
+                {
                     'label': 'biome',
                     'value': 'projects/mapbiomas-workspace/AUXILIAR/ESTATISTICAS/COLECAO6/biome',
                 },
