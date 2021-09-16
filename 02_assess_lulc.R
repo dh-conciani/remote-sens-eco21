@@ -3,6 +3,7 @@
 
 ## import packages
 library (ggplot2)
+library (ggrepel)
 library (raster)
 
 ## avoid scientific notation
